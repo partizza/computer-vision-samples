@@ -1,2 +1,3 @@
 # computer-vision-samples
-Samples of computer vision scripts in python
+
+Python 3.10 used
